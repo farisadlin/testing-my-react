@@ -1,0 +1,36 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Testing react context detect context in component 1`] = `
+Array [
+  <h1
+    style={
+      Object {
+        "textAlign": "center",
+      }
+    }
+  >
+    This is testing for React Context
+  </h1>,
+  <div
+    style={
+      Object {
+        "display": "flex",
+        "justifyContent": "space-around",
+        "margin": "50px 0",
+      }
+    }
+  >
+    <button
+      onClick={[Function]}
+    >
+      -
+    </button>
+    <span />
+    <button
+      onClick={[Function]}
+    >
+      +
+    </button>
+  </div>,
+]
+`;
